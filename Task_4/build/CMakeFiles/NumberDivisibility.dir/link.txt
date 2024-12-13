@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address  -fsanitize=address CMakeFiles/NumberDivisibility.dir/main.cpp.o CMakeFiles/NumberDivisibility.dir/number_divisibility.cpp.o -o NumberDivisibility 
