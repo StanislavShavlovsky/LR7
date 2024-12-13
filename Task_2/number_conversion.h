@@ -18,4 +18,4 @@ void print_intermediate_values(const std::string& add_code1, const std::string& 
 // Проверка, является ли строка целым числом
 bool is_integer(const std::string& str);
 
-#endif // NUMBER_CONVERSION_H
+#endif 
