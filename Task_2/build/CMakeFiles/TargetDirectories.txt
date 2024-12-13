@@ -1,0 +1,3 @@
+/home/stasname/Документы/ОАиП/LR7/Task_2/build/CMakeFiles/NumberConversion.dir
+/home/stasname/Документы/ОАиП/LR7/Task_2/build/CMakeFiles/edit_cache.dir
+/home/stasname/Документы/ОАиП/LR7/Task_2/build/CMakeFiles/rebuild_cache.dir
